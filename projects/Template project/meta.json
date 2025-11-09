@@ -1,0 +1,10 @@
+{
+  "name": "[Project Name]",
+  "category": "[e.g. Circular Economy, Childcare, Food, Sharing]",
+  "location": "[City, Country]",
+  "status": "Prototype",
+  "replicable": true,
+  "tags": ["community", "local", "open", "sharing"],
+  "language": "English",
+  "license": "CC BY-SA 4.0"
+}
