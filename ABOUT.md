@@ -47,3 +47,20 @@ The Commons Library aims to become a **global peer-to-peer knowledge commons**, 
 > Explore. Fork. Rebuild your community.
 
 ---
+
+### 📚 Current Projects in the Library
+
+| Project | Description | Location | Replicable |
+|----------|--------------|-----------|-------------|
+| [**The Thingery**](./projects/thingery) | A community “library of things” where people borrow tools, equipment, and gear instead of buying. | Ilkley, UK (and global model) | ✅ |
+| [**NE Swap & Play**](./projects/ne-swap-and-play) | A community-run space where families share clothes, toys, and time — reducing waste and building neighborhood ties. | Portland, Oregon, USA | ✅ |
+| [**Little Free Library**](./projects/little-free-library) | A global grassroots movement of book-sharing boxes that inspire reading and connection. | Global | ✅ |
+| [**Repair Café**](./projects/repair-cafe) | Volunteer-run events where people fix broken items together, share repair skills, and prevent waste. | Global | ✅ |
+| [**Template Project**](./projects/template-project) | A starting point for adding new projects to the Commons Library — follow its structure to contribute your own. | — | ✅ |
+
+---
+
+### 🧭 Next Steps
+
+We’re continuously expanding the Commons Library with new examples of open, replicable social projects.  
+If you know a project that belongs here, or if you’ve built one yourself, please see [**contribute.md**](contribute.md) to learn how to add it.
