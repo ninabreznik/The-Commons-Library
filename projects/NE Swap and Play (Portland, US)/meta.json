@@ -1,0 +1,32 @@
+{
+  "name": "NE Swap & Play",
+  "slug": "ne-swap-and-play",
+  "location": "Portland, Oregon, USA",
+  "category": "Community sharing / Family hub / Circular economy",
+  "description": "A community-run space where families share clothes, toys, and time — reducing waste and building strong neighborhood connections.",
+  "status": "active",
+  "replicable": true,
+  "language": "en",
+  "tags": ["community", "sharing", "family", "sustainability", "reuse"],
+  "files": {
+    "readme": "README.md",
+    "mission": "mission.md",
+    "business_model": "business-model.md",
+    "onboarding": "onboarding.md",
+    "communication": "communication.md",
+    "tech_tools": "tech-tools.md"
+  },
+  "funding": {
+    "type": "membership + donations",
+    "commons_contribution": 0.1
+  },
+  "contact": {
+    "website": "https://www.neswapandplay.com",
+    "email": "info@neswapandplay.com",
+    "instagram": "https://www.instagram.com/neswapandplay",
+    "facebook": "https://www.facebook.com/neswapandplay"
+  },
+  "license": "CC-BY-SA-4.0",
+  "created": "2025-11-10",
+  "updated": "2025-11-10"
+}
