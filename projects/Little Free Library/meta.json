@@ -1,0 +1,31 @@
+{
+  "name": "Little Free Library",
+  "slug": "little-free-library",
+  "location": "Global",
+  "category": "Literacy / Sharing / Community Building",
+  "description": "A worldwide network of small neighborhood book boxes that invite everyone to take a book and leave a book — promoting literacy, connection, and joy.",
+  "status": "active",
+  "replicable": true,
+  "language": "en",
+  "tags": ["books", "community", "sharing", "literacy", "education"],
+  "files": {
+    "readme": "README.md",
+    "mission": "mission.md",
+    "business_model": "business-model.md",
+    "onboarding": "onboarding.md",
+    "communication": "communication.md",
+    "tech_tools": "tech-tools.md"
+  },
+  "funding": {
+    "type": "donations + sponsorships",
+    "commons_contribution": 0.1
+  },
+  "contact": {
+    "website": "https://littlefreelibrary.org",
+    "instagram": "https://www.instagram.com/littlefreelibrary",
+    "facebook": "https://www.facebook.com/littlefreelibrary"
+  },
+  "license": "CC-BY-SA-4.0",
+  "created": "2025-11-10",
+  "updated": "2025-11-10"
+}
