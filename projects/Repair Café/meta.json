@@ -1,0 +1,31 @@
+{
+  "name": "Repair Café",
+  "slug": "repair-cafe",
+  "location": "Global",
+  "category": "Circular Economy / Skill Sharing / Community Building",
+  "description": "A volunteer-run community initiative where people bring broken items to repair together — reducing waste, sharing knowledge, and building local resilience.",
+  "status": "active",
+  "replicable": true,
+  "language": "en",
+  "tags": ["repair", "circular economy", "community", "skills", "sustainability"],
+  "files": {
+    "readme": "README.md",
+    "mission": "mission.md",
+    "business_model": "business-model.md",
+    "onboarding": "onboarding.md",
+    "communication": "communication.md",
+    "tech_tools": "tech-tools.md"
+  },
+  "funding": {
+    "type": "donations + small grants",
+    "commons_contribution": 0.1
+  },
+  "contact": {
+    "website": "https://repaircafe.org",
+    "email": "info@repaircafe.org",
+    "instagram": "https://www.instagram.com/repaircafeint"
+  },
+  "license": "CC-BY-SA-4.0",
+  "created": "2025-11-10",
+  "updated": "2025-11-10"
+}
