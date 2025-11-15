@@ -52,8 +52,8 @@ The Commons Library aims to become a **global peer-to-peer knowledge commons**, 
 
 | Project | Description | Location | Replicable |
 |----------|--------------|-----------|-------------|
-| [**The Thingery**](./projects/thingery) | A community “library of things” where people borrow tools, equipment, and gear instead of buying. | Ilkley, UK (and global model) | ✅ |
-| [**NE Swap & Play**](./projects/ne-swap-and-play) | A community-run space where families share clothes, toys, and time — reducing waste and building neighborhood ties. | Portland, Oregon, USA | ✅ |
+| [**The Thingery**](./projects/Thingery%20(Ilkley%2C%20UK)) | A community “library of things” where people borrow tools, equipment, and gear instead of buying. | Ilkley, UK (and global model) | ✅ |
+| [**NE Swap & Play**](./projects/NE%20Swap%20and%20Play%20(Portland%2C%20US)) | A community-run space where families share clothes, toys, and time — reducing waste and building neighborhood ties. | Portland, Oregon, USA | ✅ |
 | [**Little Free Library**](./projects/little-free-library) | A global grassroots movement of book-sharing boxes that inspire reading and connection. | Global | ✅ |
 | [**Repair Café**](./projects/repair-cafe) | Volunteer-run events where people fix broken items together, share repair skills, and prevent waste. | Global | ✅ |
 | [**Template Project**](./projects/template-project) | A starting point for adding new projects to the Commons Library — follow its structure to contribute your own. | — | ✅ |
